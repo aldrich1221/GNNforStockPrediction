@@ -1,5 +1,5 @@
 # GNN plus LSTM
-The neural network as following architecture graph is a Hybrid GNN–LSTM network providing an accurate prediction.  
+The neural network as shown below is a Hybrid GNN–LSTM network providing an accurate prediction.  
 
 The relation matrix is described below.     
 ![image](netgraph.png).          
