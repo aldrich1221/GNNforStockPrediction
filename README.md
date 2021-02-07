@@ -3,7 +3,7 @@ The neural network as shown below is a Hybrid GNN–LSTM network providing an st
 ![image](neuralNet.png). 
 
 
-The relation graph for Graph Neural Network is described below. The relation graph will change according to the market status.   
+The relation graph for Graph Neural Network is described below. The relation graph would change according to the market status.   
 ![image](netgraph.png).          
 
 Take MPC as an example.      
