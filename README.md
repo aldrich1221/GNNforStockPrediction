@@ -1,5 +1,5 @@
 # GNN plus LSTM
-The neural network as shown below is a Hybrid GNN–LSTM network providing a stock prediction.  
+The neural network as shown below is a Hybrid GNN–LSTM network for prediction of stock price.  
 ![image](neuralNetwork.png). 
 
 
