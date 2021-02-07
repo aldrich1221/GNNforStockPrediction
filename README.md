@@ -4,6 +4,6 @@ Colab Link
 https://colab.research.google.com/drive/1K1K1r6a2hr58dNHohhLjvOSRDrf3XleA?authuser=1#scrollTo=0fZugpdeicyH.  
 The relation matrix is described below  
 ![image](graph.png)
- Take 
+ Take MPC as an example. 
 ![image](predvstruth.png)
 ![image](GNNplusLSTMperformance.png)
